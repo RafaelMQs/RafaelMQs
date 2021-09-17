@@ -13,4 +13,6 @@
   <img align="center" alt="Rafa-Python" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
   
+  ##
+  
 ![Snake animation](https://github.com/RafaelMQs/RafaelMQs/blob/output/github-contribution-grid-snake.svg)
