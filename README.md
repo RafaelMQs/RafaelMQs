@@ -65,7 +65,6 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/RafaelMQs/RafaelMQs/output/snake.svg" alt="Snake animation" />
 
 ###
