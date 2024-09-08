@@ -10,7 +10,11 @@
 
 ###
 
-<div align="center">
+<img align="right" height="150" src="https://i.pinimg.com/736x/e9/59/d6/e959d6733c5f169569b1d14146e5955a.jpg"  />
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
@@ -46,7 +50,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/rafa_mq/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -60,9 +64,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/e9/59/d6/e959d6733c5f169569b1d14146e5955a.jpg"  />
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/RafaelMQs/RafaelMQs/output/snake.svg" alt="Snake animation" />
 
