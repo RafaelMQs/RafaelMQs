@@ -42,12 +42,12 @@ Software Engineer focused on building **scalable, high-performance backend syste
 
 ### 🎮 Activity Stream
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RafaelMQs/RafaelMQs/output/snake.svg" alt="Snake animation" />
+  
+  ![snake gif](https://github.com/RafaelMQs/RafaelMQs/blob/output/github-snake-dark.svg)
 </div>
 
 ---
 
 <div align="center">
-  <sub>Total Profile Views</sub><br />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RafaelMQs.RafaelMQs&left_color=grey&right_color=3b82f6" />
 </div>
